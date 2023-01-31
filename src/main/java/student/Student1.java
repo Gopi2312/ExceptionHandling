@@ -1,4 +1,4 @@
-package assignment.exception.student;
+package student;
 import java.util.logging.*;
 import java.util.*;
 public class Student1 
