@@ -1,4 +1,4 @@
-package assignment.exception.db;
+package db;
 import java.sql.DriverManager;
 import java.sql.Connection;
 import java.util.logging.*;
