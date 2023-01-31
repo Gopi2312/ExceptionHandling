@@ -1,4 +1,4 @@
-package assignment.bank1;
+package assignment.exception.bank;
 import java.util.logging.*;
 import java.util.InputMismatchException;
 import java.util.Scanner;
