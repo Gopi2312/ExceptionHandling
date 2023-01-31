@@ -1,4 +1,4 @@
-package assignment.exception.card;
+package card;
 import java.util.*;
 import java.util.logging.*;
 public class Main 
