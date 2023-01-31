@@ -1,4 +1,4 @@
-package assignment.exception.shape;
+package shape;
 import java.util.logging.*;
 import java.util.*;
 public class Shape1 
