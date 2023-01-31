@@ -1,4 +1,4 @@
-package assignment.coordinates;
+package assignment.exception.coordinate;
 import java.util.logging.*;
 public class Coordinate1 implements cloneable{
 	Logger log = Logger.getLogger("hi");
