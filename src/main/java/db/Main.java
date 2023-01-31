@@ -1,4 +1,4 @@
-package assignment.exception.db;
+package db;
 import java.util.*;
 import java.util.logging.*;
 public class Main
